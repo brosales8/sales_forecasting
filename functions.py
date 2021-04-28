@@ -114,7 +114,6 @@ def plot_item(data_frame, item_codes, item_names, color_symbol):
         if c == 2:
             c = 0
             r += 1
-            
         
     plt.show()
     
